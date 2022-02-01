@@ -151,4 +151,8 @@ function vpsb_remove_lostpassword_text ( $text ) {
            return $text;
     }
 add_filter( 'gettext', 'vpsb_remove_lostpassword_text' );
+
+
+//Desactivar actualizaciones automaticas de plugins
+add_filter( 'auto_update_plugin', '__return_false' );
 ?>
