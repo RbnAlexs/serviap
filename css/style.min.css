@@ -1,18 +1,17 @@
 ﻿body .back-to-top {
-    cursor: pointer;
-    position: fixed;
-    bottom: 125px;
-    right: 30px;
-    border-radius: 50%;
-    display: none;
-    background: #feb03c;
-    border-color:#feb03c;
-    border-color: #f4f7fc;
-    padding: 10px 16px;
-    font-size: 21px;
+  cursor: pointer;
+  position: fixed;
+  bottom: 125px;
+  right: 23px;
+  border-radius: 50%;
+  display: none;
+  background: #feb03ca3;
+  border: none;
+  padding: 5px 18px;
+  font-size: 38px;
 }
 
-body .back-to-top:hover{background:#dd042b}body .modal-backdrop.show{opacity:0}body .modal-backdrop{z-index:auto}
+body .back-to-top:hover{background:#34c5ef}body .modal-backdrop.show{opacity:0}body .modal-backdrop{z-index:auto}
 
 .footer {
   position: relative;
