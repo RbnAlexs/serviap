@@ -155,4 +155,7 @@ add_filter( 'gettext', 'vpsb_remove_lostpassword_text' );
 
 //Desactivar actualizaciones automaticas de plugins
 add_filter( 'auto_update_plugin', '__return_false' );
+
+// Desactivar Gutenberg
+add_filter('use_block_editor_for_post', '__return_false', 10);
 ?>
