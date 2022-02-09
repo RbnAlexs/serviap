@@ -157,11 +157,11 @@ wp_footer(); ?>
 				  
 				  
 			<ul class="social-icon-four" style="text-align:center">
-                                <li><a href="https://www.facebook.com/Serviapgroup/?ref=br_rs" target="_blank"><span class="fa fa-facebook"></span></a>    
+                                <li><a href="https://www.facebook.com/Serviapgroup/?ref=br_rs" target="_blank" rel="me"><span class="fa fa-facebook"></span></a>    
 									
-<a href="https://www.linkedin.com/company/serviap/?originalSubdomain=mx" target="_blank"><span class="fa fa-linkedin"></span></a>   
+<a href="https://www.linkedin.com/company/serviap/?originalSubdomain=mx" target="_blank" rel="me" ><span class="fa fa-linkedin"></span></a>   
 
-									<a href="https://twitter.com/SERVIAPgroup" target="_blank"><span class="fa fa-twitter"></span></a>
+									<a href="https://twitter.com/SERVIAPgroup" target="_blank" rel="me" ><span class="fa fa-twitter"></span></a>
 					  
 					  </li>
                                
